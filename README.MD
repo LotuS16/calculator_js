@@ -1,0 +1,1 @@
+"my first time project using html, css and vanila js. for knowing basic"
